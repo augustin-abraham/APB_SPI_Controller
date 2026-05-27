@@ -7,6 +7,7 @@ Designed and simulated an APB-based SPI controller using Verilog HDL.
 - SPI protocol implementation
 - Baud rate generator
 - Shift register logic
+- - FIFO buffering for data handling
 
 ## Tools Used
 - Verilog HDL
